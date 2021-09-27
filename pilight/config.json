@@ -7,7 +7,7 @@
     "startup": "services",
     "boot": "auto",
     "devices": ["/dev/mem:/dev/mem:rw"],
-    "full_access": true,
+    "full_access": false,
     "options": {
       "sender": 0,
       "receiver": -1
